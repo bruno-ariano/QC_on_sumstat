@@ -1,2 +1,5 @@
 # QC_on_sumstat
-Quality control on GWAS summary statistics
+
+### Work in progress
+
+Quality control step to do GWAS summary statistics databases such as GWAS-catalog, FINNGEN, etc..
